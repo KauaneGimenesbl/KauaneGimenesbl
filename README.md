@@ -15,6 +15,16 @@ Estou em fase de aprendizado e aprimoramento, dedicando-me aos conteúdos da fac
 - 🤝 Acredito que compartilhar conhecimento é uma das melhores formas de crescer
 
 ---
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
 
 ### 🤖 Linguagens e Tecnologias que estou estudando
 
